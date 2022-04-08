@@ -5,7 +5,7 @@
         "digitonic",
         "iex-cloud-sdk"
     ],
-    "homepage": "https://github.com/digitonic/iex-cloud-sdk",
+    "homepage": "https://github.com/toannguyen-stunited/iex-cloud-sdk",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^7.0.0",
+        "guzzlehttp/guzzle": "7.0.0",
         "illuminate/support": "5.8.*|6.*|7.*|8.*"
     },
     "require-dev": {
